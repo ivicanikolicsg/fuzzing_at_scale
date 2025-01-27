@@ -1,4 +1,6 @@
 # Fuzzing at scale project
+This is the code for the paper "Fuzzing at Scale: The Untold Story of the Scheduler".
+
 The projects consists of a few parts: 
 * Prepare UbuntuBench
 * Prepare OSS-Fuzz benchmark
